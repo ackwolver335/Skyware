@@ -1,0 +1,306 @@
+body{
+    font-family: 'Abhaya Libre', serif;
+}
+
+.header{
+    align-items: center;
+}
+
+.img1{
+    width: 20%;
+    height: 20%;
+    margin-left: 80px;
+}
+
+.main_links{
+    list-style-type: none;
+    gap: 30px;
+}
+
+.main_links li{
+    font-size: 19px;
+}
+
+.main_links li a{
+    text-decoration: none;
+    color: #383B4F;
+    transition: 0.4s;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.main_links li a:hover{
+    font-weight: bold;
+}
+
+.logins{
+    list-style-type: none;
+    gap: 20px;
+}
+
+.logins li{
+    font-size: 19px;
+}
+
+.logins li a{
+    text-decoration: none;
+    color: white;
+    background-color: #00AF8D;
+    border-radius: 10px;
+    padding: 5px;
+    border: 1px solid #00AF8D;
+    transition: 0.6s;
+}
+
+.logins li a:hover{
+    color: #00AF8D;
+    background-color: transparent;
+}
+
+.blogs_start h3{
+    font-size: 20px;
+    color: #9B9B9B;
+}
+
+.img2{
+    width: 600px;
+    height: 340px;
+}
+
+.para1{
+    color: #9B9B9B;
+    align-items: center;
+}
+
+.icon1{
+    color: #9B9B9B;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.icon1:hover{
+    color: black;
+}
+
+.blogs h3{
+    font-size: 22px;
+    color: #383B4F;
+    font-weight: bold
+}
+
+.para_link{
+    font-size: 20px;
+}
+
+.para_link a{
+    color: #383B4F;
+    transition: 0.5s;
+}
+
+.para_link a:hover{
+    font-weight: bold;
+}
+
+.para_one{
+    font-size: 15px;
+}
+
+.para_one a{
+    text-decoration: none;
+    color: #9B9B9B;
+}
+
+.part2_frame{
+    align-items: center;
+    gap: 30px;
+}
+
+.main_part2 form input{
+    padding: 10px;
+    font-size: 19px;
+    color: #9B9B9B;
+}
+
+.border_transparent{
+    border: transparent;
+}
+
+.img3{
+    width: 250px;
+    height: 140px;
+}
+
+.para2{
+    color: #9B9B9B;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.side_on{
+    color: #9B9B9B;
+    font-size: 16px;
+    list-style-type: none;
+    gap: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.side_on li{
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.side_on li:hover{
+    font-weight: bold;
+}
+
+.tabs{
+    list-style-type: none;
+    gap: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.tabs li a{
+    color: #9B9B9B;
+    transition: 0.6s;
+}
+
+.tabs li a:hover{
+    font-weight: bold;
+}
+
+.footer_main1{
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer_part1 h3{
+    font-size: 21px;   
+    color: #00AF8D;
+}
+
+.footer_part1 h4{
+    font-size: 23px;
+    color: #A259FF;
+    cursor: default;
+}
+
+.para1{
+    line-height: 1;
+    color: #9B9B9B;
+    text-align: justify;
+    width: 250px;
+}
+
+.para11{
+    line-height: 1;
+    color: #9B9B9B;
+    text-align: justify;
+}
+
+.footer_links{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer_links li{
+    font-size: 17px;
+}
+
+.footer_links li a{
+    text-decoration: none;
+    color: #9B9B9B;
+    transition: 0.6s;
+}
+
+.footer_links li a:hover{
+    color: white;
+}
+
+.icon{
+    color: white;
+}
+
+.list_item{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.modal_header{
+    color: #00AF8D;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#user_id{
+    padding: 10px;
+    font-size: 17px;
+    color: #383B4F;
+    border: 1px solid #9B9B9B;
+    width: 470px;
+    border-radius: 10px;
+}
+
+#user_pass{
+    padding: 10px;
+    font-size: 17px;
+    color: #383B4F;
+    border: 1px solid #9B9B9B;
+    width: 470px;
+    border-radius: 10px;
+}
+
+#user_name{
+    padding: 7px;
+    font-size: 17px;
+    color: #383B4F;
+    border: 1px solid #9B9B9B;
+    width: 470px;
+    border-radius: 10px;
+}
+
+#user_mail{
+    padding: 7px;
+    font-size: 17px;
+    color: #383B4F;
+    border: 1px solid #9B9B9B;
+    width: 470px;
+    border-radius: 10px;
+}
+
+#user_mob{
+    padding: 7px;
+    font-size: 17px;
+    color: #383B4F;
+    border: 1px solid #9B9B9B;
+    width: 470px;
+    border-radius: 10px;
+}
+
+.para_on{
+    font-size: 19px;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.para_on span{
+    color: #00AF8D;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.para_on span:hover{
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.justified_content{
+    align-items: center;
+    justify-content: center;
+}
