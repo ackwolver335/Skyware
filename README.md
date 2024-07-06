@@ -87,7 +87,7 @@ Together with the material provided by the Team of *Skyware* we have given them 
 ## 📫 How to Reach Me
 
 - **Email** - abhaych335@gmail.com
-- **Instagram** - [@being_chaudhary.ig](https://www.instagram.com/coding.needs/)
+- **Instagram** - [@coding.needs](https://www.instagram.com/coding.needs/)
 - **Twitter** - [@AbhayCh84760](https://x.com/AbhayCh84760)
 
 ## Support Me
